@@ -19,7 +19,7 @@ body {
 span {
   font-size: 100px;
   display: inline-block;
-  text-shadow: 0 0 0 red;
+  text-shadow: 0 0 0 whitesmoke;
   -webkit-animation: smoky 5s 3s both;
   animation: smoky 5s 3s both;
 }
